@@ -57,6 +57,10 @@ h1 {
     font-weight: bold;
 }
 
+#editar_id{
+    text-align: right;
+}
+
 /*BOOK */
 #book-page{
     padding: 2em;
