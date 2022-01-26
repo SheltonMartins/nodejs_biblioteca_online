@@ -57,9 +57,6 @@ h1 {
     font-weight: bold;
 }
 
-#editar_id{
-    text-align: right;
-}
 
 /*BOOK */
 #book-page{
@@ -68,4 +65,14 @@ h1 {
 
 #book-page .container{
     text-align: center;
+}
+
+.actions{
+    display: flex;
+    margin-top: 1em;
+    justify-content: center;
+}
+
+.actions a {
+    margin-right: 1em   ;
 }
